@@ -1,21 +1,18 @@
-# Vehicle Tracking ML System wih Real-Time updating
+# Real-Time GeoSpatial Big Data Management
 
-## Real-Time GeoSpatial Big Data Management:
-
-
-# 🚗 Vehicle Tracking ML System - Production Deployment
+## 🚗 Vehicle Tracking ML System - Production Deployment
 
 [![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-success)](https://MauroTravieso.github.io/vehicle-tracking-ml/)
 [![PySpark](https://img.shields.io/badge/Framework-PySpark%20MLlib-orange)](https://spark.apache.org/mllib/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-### Real-time machine learning predictions for transportation systems. Trained on presisted streamed vehicle records with 5 production-ready models.
+### Machine learning predictions for transportation systems. Trained on real-time presisted streamed vehicle records with 5 production-ready models.
 
 ---
 
 ## 👥 Authors
 
-### - **Mauro Travieso** - *Real-Time GeoSpatial Big Data Management* - [GitHub](https://github.com/MauroTravieso)
+### - **Mauro Travieso** - *Real-Time Big Data Processing & Management* - [GitHub](https://github.com/MauroTravieso)
 
 #### ⭐ Built with PySpark, trained on SF Bay Area vehicle data, deployed on GitHub Pages.
 #### ⭐ Messaging through Kafka for data ingestion & quality checks
