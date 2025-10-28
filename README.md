@@ -18,13 +18,13 @@
 
 ## 🎯 System Overview
 
-##### ⭐ Built with PySpark, trained on SF Bay Area vehicle data, deployed on GitHub Pages.
-##### ⭐ Messaging through Kafka for data ingestion & quality checks
-##### ⭐ Distributed Processing with Spark Structured Streaming 
-##### ⭐ Synchronous Dual Distributed Persisting in HBase (NoSQL for fast processing), Hive (SQL for ACID Transactions)  
-##### ⭐ Pipeline Orchestration, Scheduling and Alerting in Airflow
-##### ⭐ Modeling and Testing in PySpark / Scala / Python 
-##### ⭐ Production Cloud-ready implementation
+#### ⭐ Built with PySpark, trained on SF Bay Area vehicle data, deployed on GitHub Pages.
+#### ⭐ Messaging through Kafka for data ingestion & quality checks
+#### ⭐ Distributed Processing with Spark Structured Streaming 
+#### ⭐ Synchronous Dual Distributed Persisting in HBase (NoSQL for fast processing), Hive (SQL for ACID Transactions)  
+#### ⭐ Pipeline Orchestration, Scheduling and Alerting in Airflow
+#### ⭐ Modeling and Testing in PySpark / Scala / Python 
+#### ⭐ Production Cloud-ready implementation
 
 ### Key Features
 - ✅ **5 ML Models**: Status classification, speed prediction, emergency detection, weather impact, clustering
