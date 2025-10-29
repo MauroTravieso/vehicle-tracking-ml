@@ -1,6 +1,6 @@
 # Real-Time GeoSpatial Big Data Management
 
-## 🚗 Vehicle Tracking ML System - Production Deployment
+### 🚗 Vehicle Tracking ML System - Production Deployment
 
 [![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-success)](https://MauroTravieso.github.io/vehicle-tracking-ml/)
 [![PySpark](https://img.shields.io/badge/Framework-PySpark%20MLlib-orange)](https://spark.apache.org/mllib/)
@@ -13,6 +13,10 @@
 ## 👥 Author
 
 ### - **Mauro Travieso** - *Real-Time Big Data Processing & Management* - [GitHub](https://github.com/MauroTravieso)
+
+---
+
+![Trasnportation System](/assets/images/resized.gif)
 
 ---
 
